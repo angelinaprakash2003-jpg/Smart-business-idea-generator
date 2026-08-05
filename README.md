@@ -23,14 +23,7 @@ IdeaGenie solves this by combining AI generation + market analysis + actionable 
 - **Idea Library**: Save, bookmark, and track all generated ideas
 - **Modern UI/UX**: Flutter app with dark theme, glassmorphism, and data visualizations
 
-## 📱 Screenshots
-| Home / Generate | New Brainstorm | AI Processing |
-| --- | --- | --- |
-| ![Home](assets/screenshots/home.png) | ![Brainstorm](assets/screenshots/brainstorm.png) | ![Processing](assets/screenshots/processing.png) |
 
-| Idea Detail | Innovation Matrix | Profile |
-| --- | --- | --- |
-| ![Detail](assets/screenshots/detail.png) | ![Analytics](assets/screenshots/analytics.png) | ![Profile](assets/screenshots/profile.png) |
 
 ## 🛠️ Tech Stack
 - **Framework**: Flutter 3.x, Dart
